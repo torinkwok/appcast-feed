@@ -16,7 +16,7 @@
 			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.0/tau4mac-confucius-v0.1.0-release-notes-zh-cn.htm"
 		</sparkle:releaseNotesLink>
 
-        <pubDate>Wed, 06 Apr 2016 09:57:00 +0000</pubDate>
+        <pubDate>Wed, 06 Apr 2016 09:57:00 +0800</pubDate>
         <enclosure url="$ENCLOSURE_URL" sparkle:version="0.1.0" sparkle:shortVersionString="Confucius (0.1.0)" sparkle:dsaSignature="$DSA_PUBLIC_KEY" />
       </item>
 
