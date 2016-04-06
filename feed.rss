@@ -17,7 +17,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Wed, 06 Apr 2016 09:57:00 +0800</pubDate>
-        <enclosure url="$ENCLOSURE_URL" sparkle:version="0.1.0" sparkle:shortVersionString="Confucius (0.1.0)" sparkle:dsaSignature="$DSA_PUBLIC_KEY" />
+        <enclosure url="$ENCLOSURE_URL" sparkle:version="0.1.0" sparkle:shortVersionString="Confucius (0.1.0)" sparkle:dsaSignature="MCwCFFEXX3Wr9ckoC1QtGskAEz0hSVOgAhQH0Ksy95F7n8i8ZmdRW8fiqjYHDA==" />
       </item>
 
   </channel>
