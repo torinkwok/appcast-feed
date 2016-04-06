@@ -5,6 +5,22 @@
     <description>Most recent changes with links to updates.</description>
 
       <item>
+        <title>"&quot;Confucius&quot; (0.1.2)"</title>
+		<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
+
+		<sparkle:releaseNotesLink>
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.2/tau4mac-confucius-v0.1.2-release-notes.htm"
+		</sparkle:releaseNotesLink>
+
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.2/tau4mac-confucius-v0.1.2-release-notes-zh-cn.htm"
+		</sparkle:releaseNotesLink>
+
+        <pubDate>Wed, 06 Apr 2016 15:43:00 +0800</pubDate>
+        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v0.1.2/tau4mac-confucius-v0.1.2.zip" sparkle:version="0.1.2" sparkle:shortVersionString="&quot;Fucking Confucius&quot; (0.1.2)" sparkle:dsaSignature="MCwCFA6SN7J1sjgLuMPrtJkYRFL9FbhWAhQqGA5xB1RlULoDRWm5ZMh8ojQiBQ==" />
+      </item>
+
+      <item>
         <title>"&quot;Confucius&quot; (0.1.1)"</title>
 		<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
 
