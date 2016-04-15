@@ -17,7 +17,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Wed, 15 Apr 2016 21:04:00 +0800</pubDate>
-        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v1.1.3/tau4mac-confucius-v1.1.3.zip" sparkle:version="1.1.3" sparkle:shortVersionString="&quot;Confucius&quot; (1.1.3)" sparkle:dsaSignature="MCwCFDg9WoEg7NSGmr74TODcE1m+kuY+AhRDILsFmogJIwoUByXbSlIPbgdrPA==" />
+        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v1.1.3/tau4mac-confucius-v1.1.3.zip" sparkle:version="1.1.3" sparkle:shortVersionString="&quot;Confucius&quot; (1.1.3)" sparkle:dsaSignature="MCwCFAVpkSQoFHTtRWBAQoNNzDWmMnegAhRjIWQMSeqMW9bVM5/XV7VuuLFXHg==" />
       </item>
 
       <item>
