@@ -5,52 +5,52 @@
     <description>Most recent changes with links to updates.</description>
 
       <item>
-        <title>"&quot;Confucius&quot; (0.1.2)"</title>
+        <title>"&quot;Confucius&quot; (1.1.2)"</title>
 		<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.2/tau4mac-confucius-v0.1.2-release-notes.htm"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.2/tau4mac-confucius-v1.1.2-release-notes.htm"
 		</sparkle:releaseNotesLink>
 
 		<sparkle:releaseNotesLink xml:lang="zh-cn">
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.2/tau4mac-confucius-v0.1.2-release-notes-zh-cn.htm"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.2/tau4mac-confucius-v1.1.2-release-notes-zh-cn.htm"
 		</sparkle:releaseNotesLink>
 
         <pubDate>Wed, 06 Apr 2016 22:14:00 +0800</pubDate>
-        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v0.1.2/tau4mac-confucius-v0.1.2.zip" sparkle:version="0.1.2" sparkle:shortVersionString="&quot;Fucking Confucius&quot; (0.1.2)" sparkle:dsaSignature="MCwCFDg9WoEg7NSGmr74TODcE1m+kuY+AhRDILsFmogJIwoUByXbSlIPbgdrPA==" />
+        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v1.1.2/tau4mac-confucius-v1.1.2.zip" sparkle:version="1.1.2" sparkle:shortVersionString="&quot;Fucking Confucius&quot; (1.1.2)" sparkle:dsaSignature="MCwCFDg9WoEg7NSGmr74TODcE1m+kuY+AhRDILsFmogJIwoUByXbSlIPbgdrPA==" />
       </item>
 
       <item>
-        <title>"&quot;Confucius&quot; (0.1.1)"</title>
+        <title>"&quot;Confucius&quot; (1.1.1)"</title>
 		<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.1/tau4mac-confucius-v0.1.1-release-notes.html"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.1/tau4mac-confucius-v1.1.1-release-notes.html"
 		</sparkle:releaseNotesLink>
 
 		<sparkle:releaseNotesLink xml:lang="zh-cn">
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.1/tau4mac-confucius-v0.1.1-release-notes-zh-cn.html"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.1/tau4mac-confucius-v1.1.1-release-notes-zh-cn.html"
 		</sparkle:releaseNotesLink>
 
         <pubDate>Wed, 06 Apr 2016 15:43:00 +0800</pubDate>
-        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v0.1.1/tau4mac-confucius-v0.1.1.zip" sparkle:version="0.1.1" sparkle:shortVersionString="&quot;Confucius&quot; (0.1.1)" sparkle:dsaSignature="MCwCFA6SN7J1sjgLuMPrtJkYRFL9FbhWAhQqGA5xB1RlULoDRWm5ZMh8ojQiBQ==" />
+        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v1.1.1/tau4mac-confucius-v1.1.1.zip" sparkle:version="1.1.1" sparkle:shortVersionString="&quot;Confucius&quot; (1.1.1)" sparkle:dsaSignature="MCwCFA6SN7J1sjgLuMPrtJkYRFL9FbhWAhQqGA5xB1RlULoDRWm5ZMh8ojQiBQ==" />
       </item>
 
 
       <item>
-        <title>"&quot;Confucius&quot; (0.1.0)"</title>
+        <title>"&quot;Confucius&quot; (1.1.0)"</title>
 		<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.0/tau4mac-confucius-v0.1.0-release-notes.htm"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.0/tau4mac-confucius-v1.1.0-release-notes.htm"
 		</sparkle:releaseNotesLink>
 
 		<sparkle:releaseNotesLink xml:lang="zh-cn">
-			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v0.1.0/tau4mac-confucius-v0.1.0-release-notes-zh-cn.htm"
+			"https://raw.githubusercontent.com/TauProject/appcast-feed/master/tau4mac-confucius-v1.1.0/tau4mac-confucius-v1.1.0-release-notes-zh-cn.htm"
 		</sparkle:releaseNotesLink>
 
         <pubDate>Wed, 06 Apr 2016 09:57:00 +0800</pubDate>
-        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v0.1.0/tau4mac-confucius-v0.1.0.zip" sparkle:version="0.1.0" sparkle:shortVersionString="&quot;Confucius&quot; (0.1.0)" sparkle:dsaSignature="MCwCFCSu2WdaZhka24z20pDIMMGTxdejAhR/34ySIjJZV0BaeiM4Z1tx/wPIiA==" />
+        <enclosure url="https://github.com/TauProject/appcast-feed/releases/download/v1.1.0/tau4mac-confucius-v1.1.0.zip" sparkle:version="1.1.0" sparkle:shortVersionString="&quot;Confucius&quot; (1.1.0)" sparkle:dsaSignature="MCwCFCSu2WdaZhka24z20pDIMMGTxdejAhR/34ySIjJZV0BaeiM4Z1tx/wPIiA==" />
       </item>
 
   </channel>
